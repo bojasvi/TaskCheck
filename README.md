@@ -30,7 +30,3 @@ Android Native app for daily task management with a minimalistic material design
 
 ## APK Available for Download in the Releases section
 Alternatively, click [here to download.](https://github.com/sanskar10100/TaskCheck/releases/download/final/TestCheck.apk)
-
----
-
-Huge shoutout to [Pranjal](https://github.com/pranjal-codes) for providing me with inspiration for building this little app.
